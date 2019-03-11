@@ -1,6 +1,6 @@
 .shafa {
 	width: 800px;
-	border: 1px #555  solid ;
+	border: 1px #444  solid ;
 	padding: 5px;
 	margin: 15px;
 	float: left;
@@ -10,7 +10,7 @@
 .hatka1, .hatka2, .hatka3, .hatka4{ 
 	width: 350px;
 	height: 615px;
-	border: 2px #333 solid;
+	border: 2px #555 solid;
 	background: #eee;
 	float: left;
 	padding: 5px;
